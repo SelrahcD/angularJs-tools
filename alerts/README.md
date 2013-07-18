@@ -24,3 +24,6 @@ AlertsService.success('Sucess message');
 AlertsService.error('Error message');
 AlertsService.info('Information message');
 ```
+
+## Anything wrong
+Pull requests are welcome [in the repo](https://github.com/SelrahcD/angularJs-tools).
