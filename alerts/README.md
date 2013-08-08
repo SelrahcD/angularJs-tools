@@ -28,7 +28,7 @@ AlertsService.success('Sucess message', 5000);
 ```
 Will make the alert disapear after 5s.
 
-If you want to disbale the timeout mechanism pass 0 as duration.
+If you want to disable the timeout mechanism pass 0 as duration.
 
 ## Anything wrong
 Pull requests are welcome [in the repo](https://github.com/SelrahcD/angularJs-tools).
