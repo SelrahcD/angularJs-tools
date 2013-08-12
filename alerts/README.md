@@ -24,7 +24,7 @@ AlertsService.info('Information message');
 
 Each alert will desapear after 3 seconds. You can override this behaviour if you provide a value in ms as the second argument of alert method.
 ```javascript
-AlertsService.success('Sucess message', 5000);
+AlertsService.success('Success message', 5000);
 ```
 Will make the alert disapear after 5s.
 
