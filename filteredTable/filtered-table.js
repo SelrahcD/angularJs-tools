@@ -27,12 +27,12 @@
 
         return {
             restrict: 'A',
-            controller: controller
+            controller: ['$scope', controller]
         }
 
     }
 
     // Declare directive
-    module.directive('filteredTable', [filteredTable]);
+    module.directive('filteredTable', filteredTable);
 
 })();
